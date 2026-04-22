@@ -1,1 +1,2 @@
-aaaa
+<? php
+echo "aaaaa";

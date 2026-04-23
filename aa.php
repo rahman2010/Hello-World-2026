@@ -3,4 +3,4 @@
 echo "aaaaa bbbbb dev ";
 echo "it is after changing error";
 echo "it is after changing error11";
-e
+
